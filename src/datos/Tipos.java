@@ -10,6 +10,12 @@ public class Tipos {
         String nombre = "Jose Carlos Joao";
         char sexo = 'M';
 
+        System.out.println("TIPO ENTERO: " + numberInt);
+        System.out.println("TIPO LONG: " + numberLong);
+        System.out.println("TIPO DOUBLE: " + numberDouble);
+        System.out.println("TIPO BOOLEANO: " + estado);
+        System.out.println("TIPO STRING: " + nombre);
+        System.out.println("TIPO CHAR: " + sexo);
 
     }
 }
